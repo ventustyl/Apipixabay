@@ -1,0 +1,3 @@
+window.env = {
+  PIXABAY_API_KEY: "20652381-810ac1cd03b200be2520d2133",
+};
